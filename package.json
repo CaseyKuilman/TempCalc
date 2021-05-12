@@ -10,10 +10,9 @@
   "dependencies": {
     "celsius-to-fahrenheit": "^1.0.1",
     "fahrenheit-to-celsius": "^1.0.0",
-    "mathjs": "^5.9.0",
+    "mathjs": "^9.3.2",
     "prompts": "^2.0.4",
     "yargs": "^13.2.2"
   },
-  "devDependencies": {},
   "description": ""
 }
