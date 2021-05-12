@@ -10,7 +10,7 @@
   "dependencies": {
     "celsius-to-fahrenheit": "^1.0.1",
     "fahrenheit-to-celsius": "^1.0.0",
-    "mathjs": "^5.9.0",
+    "mathjs": "^7.5.1",
     "prompts": "^2.0.4",
     "yargs": "^13.2.2"
   },
